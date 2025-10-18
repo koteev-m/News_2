@@ -12,3 +12,8 @@ out/
 
 # OS
 .DS_Store
+.idea/
+.gradle/
+build/
+out/
+*.iml
